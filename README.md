@@ -25,6 +25,3 @@ This keychain serves not only as a functional item but also as an educational to
 
 ## Conclusion
 This project blends the art of design with the precision of modern technology to celebrate ancient Greek culture, making it a unique piece that resonates with both history buffs and literary enthusiasts.
-
-## License
-This project is released under the MIT License. See the LICENSE file for more details.
